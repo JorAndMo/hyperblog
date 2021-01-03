@@ -45,6 +45,11 @@ body
 {
     font-size: 20px;
 }
+#container small
+{
+    color: gray;
+    font-size: 12px;
+}
 #post
 {
   padding: 1em;
