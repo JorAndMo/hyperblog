@@ -36,7 +36,7 @@ body
 #container
 {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
@@ -53,4 +53,12 @@ body
 #post
 {
   padding: 1em;
+}
+
+#footer
+{
+
+ color: #33A;
+ text-align:center;
+
 }
